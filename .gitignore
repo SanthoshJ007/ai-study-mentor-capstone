@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+student_a_state.json
+student_b_state.json
